@@ -17,6 +17,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
+- [Project Personnel](#project-personnel)
 - [Motivation](#motivation)
 - [Relationship to Prior Work](#relationship-to-prior-work)
 - [Research Gaps Addressed](#research-gaps-addressed)
